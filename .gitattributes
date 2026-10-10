@@ -7,3 +7,4 @@
 *.json text eol=lf
 .gitignore text eol=lf
 .gitattributes text eol=lf
+*.mp4 binary
