@@ -1,0 +1,30 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Build output
+build/
+dist/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
