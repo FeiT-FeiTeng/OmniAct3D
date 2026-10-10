@@ -2,11 +2,11 @@
 
 Project repository for OmniAct3D.
 
+[Paper (PDF)](https://arxiv.org/pdf/2610.03015)
+
 ## Demo video
 
 https://github.com/user-attachments/assets/68d906c2-2e27-4e91-be7b-b7d4e690d059
-
-[Download the original MP4](https://github.com/FeiT-FeiTeng/OmniAct3D/raw/refs/heads/main/assets/videos/OmniAct3D.mp4)
 
 ## Status
 
