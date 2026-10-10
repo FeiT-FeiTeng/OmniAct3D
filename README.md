@@ -4,9 +4,9 @@ Project repository for OmniAct3D.
 
 ## Demo video
 
-https://github.com/user-attachments/assets/4a9a4815-40ab-4234-84a5-39990127b825
+https://github.com/user-attachments/assets/68d906c2-2e27-4e91-be7b-b7d4e690d059
 
-[Download the original MP4](https://github.com/FeiT-FeiTeng/OmniAct3D/raw/refs/heads/main/assets/videos/OmniAct3D_with_cover_59p5s_1080p_H264.mp4)
+[Download the original MP4](https://github.com/FeiT-FeiTeng/OmniAct3D/raw/refs/heads/main/assets/videos/OmniAct3D.mp4)
 
 ## Status
 
